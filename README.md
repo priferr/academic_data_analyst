@@ -1,2 +1,2 @@
 # academic_data_analyst
-Study projects in Data Analytics field
+Study projects with data visualization tools
