@@ -11,11 +11,6 @@ As a result, I got the skills to confidently explore Tableau and build impactful
 ![Captura de Tela 2023-06-11 às 13 19 37](https://github.com/priferr/academic_data_analyst/assets/105013804/121e4dd7-5358-43a5-a31d-89e9141ac6b9)
 Analysis: Compare occupancy and average prices for each neighborhood and room type combination to decide whether an investment may be worthwhile.
 
-## Card, slicers and table
-
-![Captura de Tela 2023-06-09 às 16 36 50](https://github.com/priferr/academic_data_analyst/assets/105013804/d9a21f6b-03fb-4e45-957d-e1921b590d77)
-Analysis: 
-
 ## Customizing Visualization: aggregation, filtering, sorting, calculation
 
 
