@@ -28,14 +28,14 @@ Analysis:
 
 ## Creating a Dashboard
 
-![Captura de Tela 2023-06-09 às 16 58 06](https://github.com/priferr/academic_data_analyst/assets/105013804/53df295a-a0e6-4861-b55b-e8c6cf89dc97)
-Analysis: Check if the variables names and types match the observations.
+
+Analysis: 
 
 ## Storytelling
 
-![Captura de Tela 2023-06-09 às 21 40 02](https://github.com/priferr/academic_data_analyst/assets/105013804/bf65f497-3475-43e5-b45e-458142f54895)
-Analysis: What is the category with the highest amount in forecast?
+
+Analysis: 
 
 -----
 
-[Read more about the complete course](https://app.datacamp.com/learn/courses/introduction-to-power-bi)
+[Read more about the complete course](https://app.datacamp.com/learn/courses/introduction-to-tableau)
