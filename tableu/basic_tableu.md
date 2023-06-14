@@ -13,13 +13,15 @@ Analysis: Compare occupancy and average prices for each neighborhood and room ty
 
 ## Customizing Visualization: aggregation, filtering, sorting, calculation
 
-
-Analysis: 
+![Captura de Tela 2023-06-14 às 14 05 00](https://github.com/priferr/academic_data_analyst/assets/105013804/36013a34-3322-4f21-9c70-5fe351177b71)
+Data: Years of study in several countries by men & women ages categories
+Analysis: Using calculated fields, whats is the highest average years studying among men and women of 25-34 yesars old?
 
 ## Geographic data, time data & forecasting
 
-
-Analysis: 
+![Captura de Tela 2023-06-14 às 16 58 32](https://github.com/priferr/academic_data_analyst/assets/105013804/40581ec6-f5c1-4fe6-b29b-0c8b70ff8b95)
+Data: UN's datasets and statistics from gapminder to identify patterns on the past to bring insights to future decisions.
+Analysis: What was the population growth of the country wih the highest population in 2008?
 
 ## Creating a Dashboard
 
