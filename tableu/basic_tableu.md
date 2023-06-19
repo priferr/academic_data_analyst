@@ -24,9 +24,11 @@ Data: UN's datasets and statistics from gapminder to identify patterns on the pa
 Analysis: What was the population growth of the country wih the highest population in 2008?
 
 ## Creating a Dashboard
+![Captura de Tela 2023-06-19 às 13 49 44](https://github.com/priferr/academic_data_analyst/assets/105013804/8589bf65-2248-4549-8a38-122dc2bd8bc8)
 
-
-Analysis: 
+![Captura de Tela 2023-06-19 às 13 38 51](https://github.com/priferr/academic_data_analyst/assets/105013804/c726a5be-e197-426a-904c-8ae1d93ff7b2)
+Data: Nintendo's video game sales in North America
+Analysis: What is the genre of the top-selling PLaystation video game?
 
 ## Storytelling
 
