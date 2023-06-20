@@ -9,6 +9,8 @@ As a result, I got the skills to confidently explore Tableau and build impactful
 ## Navigating Tableu
 
 ![Captura de Tela 2023-06-11 às 13 19 37](https://github.com/priferr/academic_data_analyst/assets/105013804/121e4dd7-5358-43a5-a31d-89e9141ac6b9)
+Data: Airbnb listings in NYC based on neighborhoods, prices and minimum stay requirements.
+
 Analysis: Compare occupancy and average prices for each neighborhood and room type combination to decide whether an investment may be worthwhile.
 
 ## Customizing Visualization: aggregation, filtering, sorting, calculation
@@ -21,19 +23,20 @@ Analysis: Using calculated fields, whats is the highest average years studying a
 
 ![Captura de Tela 2023-06-14 às 16 58 32](https://github.com/priferr/academic_data_analyst/assets/105013804/40581ec6-f5c1-4fe6-b29b-0c8b70ff8b95)
 Data: UN's datasets and statistics from gapminder to identify patterns on the past to bring insights to future decisions.
+
 Analysis: What was the population growth of the country wih the highest population in 2008?
 
-## Creating a Dashboard
+## Creating a Dashboard and Storytelling
 ![Captura de Tela 2023-06-19 às 13 49 44](https://github.com/priferr/academic_data_analyst/assets/105013804/8589bf65-2248-4549-8a38-122dc2bd8bc8)
 
 ![Captura de Tela 2023-06-19 às 13 38 51](https://github.com/priferr/academic_data_analyst/assets/105013804/c726a5be-e197-426a-904c-8ae1d93ff7b2)
-Data: Nintendo's video game sales in North America
-Analysis: What is the genre of the top-selling PLaystation video game?
+Data: Sales in North America of the 3 main video game companies: Playstation, Nintendo and Xbox.
 
-## Storytelling
+Analysis: What is the genre of the top-selling Playstation video game?
 
+![Captura de Tela 2023-06-20 às 11 58 49](https://github.com/priferr/academic_data_analyst/assets/105013804/e327a1de-bb9f-4d7b-bf59-28b6388b886e)
 
-Analysis: 
+![Captura de Tela 2023-06-20 às 11 57 19](https://github.com/priferr/academic_data_analyst/assets/105013804/bd36b02f-b390-4c1d-9796-d8f110882b8c)
 
 -----
 
